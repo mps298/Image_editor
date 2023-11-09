@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images_lab6/Ellipse.png</file>
+        <file>Images_lab6/IconEllipse.ico</file>
+        <file>Images_lab6/iconExit.ico</file>
+        <file>Images_lab6/IconRect.ico</file>
+        <file>Images_lab6/Rect.png</file>
+        <file>Images_lab6/T.png</file>
+        <file>Images_lab6/Colors.ico</file>
+        <file>Images_lab6/Circle.ico</file>
+        <file>Images_lab6/Line.ico</file>
+        <file>Images_lab6/Rect.ico</file>
+        <file>Images_lab6/Settings.ico</file>
+        <file>Images_lab6/Shapes.ico</file>
+        <file>Images_lab6/Triangle.ico</file>
+        <file>Images_lab6/reset.ico</file>
+        <file>Images_lab6/image-outline.png</file>
+    </qresource>
+</RCC>
